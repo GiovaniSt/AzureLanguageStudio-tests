@@ -19,5 +19,5 @@ Natural Language Processing (NLP) is a branch of AI that deals with written and 
 - Resource type: Language
 - Resource name: select the Language service resource just created
 
-3) back to the Welcome Language Studio landing page, I selected the Classify text tab, then the Analyze sentiment and mine opinions tile to analyse hotel reviews in English.
+3) Back to the Welcome Language Studio landing page, I selected the Classify text tab, then the Analyze sentiment and mine opinions tile to analyse hotel reviews in English extracted from a popular travel and accommodation site.
 
